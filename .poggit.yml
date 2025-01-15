@@ -6,6 +6,6 @@ projects:
   ExampleMessages:
     path: ""
     libs:
-      - src: terpz710/messages/libMessages
+      - src: Terpz710/messages/libMessages
         version: ^1.0.0
 ...
