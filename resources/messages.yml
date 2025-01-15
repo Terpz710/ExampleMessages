@@ -1,0 +1,5 @@
+join-message: "Welcome &a{name}&f to the server!"
+
+quit-message: "Goodbye &c{name}&f!"
+
+motd: "&bTry your best!"
