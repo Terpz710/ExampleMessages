@@ -1,0 +1,11 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Terpz710/ExampleMessages
+build-by-default: true
+branches:
+- main
+projects:
+  ExampleMessages:
+    path: ""
+    libs:
+      - src: terpz710/messages/libMessages
+        version: ^1.0.0
+...
